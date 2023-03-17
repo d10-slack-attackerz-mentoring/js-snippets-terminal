@@ -53,6 +53,7 @@ const numbB = "10"
 const result = numbA + numbB  // 10 + "10" => 1010
 console.log({ result }) // ???
 
+// const result2 = numbA + paseInt(numbB) // paseInt(str) => parst eine Number aus dem String raus, wenn möglich!
 const result2 = numbA + Number(numbB) // Number(str) => wandelt string in number um
 console.log({ result2 }) 
 
