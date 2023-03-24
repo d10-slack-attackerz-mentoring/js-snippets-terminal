@@ -37,7 +37,7 @@ i++ // i = i + 1
 console.log({i}) // increment operator => plus 1!
 // console.log(i+10) // Operation ohne Effekt
 
-// 1. DELCARATION
+// 1. DECLARATION
 // 2. OPERATION (=> Variable updaten / changen)
 // 3. CHECK => console.log
 
