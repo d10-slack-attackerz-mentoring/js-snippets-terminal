@@ -1,14 +1,15 @@
 # CRUD
 
-CREATE
-READ
-UPDATE
-DELETE
+- CREATE
+- READ
+- UPDATE
+- DELETE
 
-## With Code / Higher Order Functions
+## Higher Order Functions
 
-READ => Suche => FILTER method
-DELETE => FILTER
-UPDATE => Map
+- READ 
+  - Suche => FILTER method
+  - Convert format => MAP method
+- DELETE => FILTER method
+- UPDATE => Map oder find method
 
-Convert format => MAP
